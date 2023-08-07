@@ -1,14 +1,28 @@
 {
-    "count": 5,
+    "count": 7,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "6f08a314-a328-4f82-946f-059b4f41257b",
+            "collectionId": "Dutch",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Dutch/6f08a314-a328-4f82-946f-059b4f41257b_nl_Female.mp4"
+        },
         {
             "id": "d525787f-d3c4-41f2-ba9e-eca85dd4dc76",
             "collectionId": "Dutch",
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Dutch/d525787f-d3c4-41f2-ba9e-eca85dd4dc76_nl_Female.mp4"
+        },
+        {
+            "id": "6dba9137-3733-466b-abc6-685062925a1c",
+            "collectionId": "Dutch",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Dutch/6dba9137-3733-466b-abc6-685062925a1c_nl_Male.mp4"
         },
         {
             "id": "e0535cff-b4ae-4495-8beb-60193b28d325",
